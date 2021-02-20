@@ -1,10 +1,4 @@
-/*
- * Pet Clinic - HTML5 Template
- *
- * Author: www.matchthemes.com
- *
- */
- 
+
 (function($) {
     "use strict";
 	
@@ -91,7 +85,8 @@ $('#portfolio-filter a').click(function(){
 		
   var selector = $(this).attr('data-filter');
   portfolioItems.isotope({ filter: selector });
+
   return false;
 });
-
+	$("#galleryProducts").click();
 }

@@ -896,7 +896,7 @@ margin-bottom:0;}
 
 #portfolio-filter{margin:48px 0;}
 
-.portfolio-item{padding:0;}
+.portfolio-item{padding:1; padding-top: 1;}
 
 .portfolio-img{display:block;
 overflow:hidden;
