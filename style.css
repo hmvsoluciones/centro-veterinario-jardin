@@ -1590,6 +1590,7 @@ margin-right:auto;}
 @media (max-width: 568px) {
   .intro-text h1{
     color: whitesmoke;
+    font-size: 30px;
   }
 .intro-text{top:25%;
 width:auto;}
@@ -1610,6 +1611,7 @@ width:auto;}
 @media (max-width: 480px) {
   .intro-text h1{
     color: whitesmoke;
+    font-size: 30px;
   }
 
 .member-img{width:240px;
@@ -1632,6 +1634,7 @@ height:240px;
 
   .intro-text h1{
     color: #d9d9d9;
+    font-size: 30px;
   }
 
 .texts h3{font-size:18px;}
