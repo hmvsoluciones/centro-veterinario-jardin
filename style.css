@@ -1668,3 +1668,7 @@ height:240px;
 .my-float{
 	margin-top:16px;
 }
+
+.navbar-fixed-top {
+  background: #00A3E1 !important;
+}
