@@ -11,7 +11,8 @@
 });
 	
 	$('#slides').superslides({
-      animation: 'fade',
+      animation: 'slide',
+	  pagination: true,
 	  play: 4000
     });
 	
