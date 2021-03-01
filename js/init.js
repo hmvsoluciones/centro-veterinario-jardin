@@ -13,7 +13,8 @@
 	$('#slides').superslides({
       animation: 'slide',
 	  pagination: true,
-	  play: 4000
+	  play: 4000,
+	  hashchange: true  
     });
 	
 	// MENU NAVIGATION
