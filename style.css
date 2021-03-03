@@ -386,6 +386,13 @@ font-size: 60px;
 color: #0a0a0a; 
 font-family: Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif; 
 }
+.logoText{
+  font-family: Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif; 
+  font-size: 24px;  
+  top: 15px;
+  position: absolute;
+  width: 300px;
+}
 
 .intro-text p{font-size:16px;
 font-style:italic;
@@ -1486,7 +1493,10 @@ font-size:36px;}
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
-
+  .logoText{
+    font-family: Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif; 
+    font-size: 19px;     
+  }
 .texts span{margin-top:16px;}
 
 .texts h3{margin-top:16px;
