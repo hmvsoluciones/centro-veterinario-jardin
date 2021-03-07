@@ -503,7 +503,7 @@ color:#ffffff;}
     margin-bottom: 16px;
 	text-transform:uppercase;}
 
-.f-italic24{font-size:24px;
+.f-italic24{font-size:20px;
 font-style:italic;}
 
 .light-text{font-weight:300;
@@ -1633,7 +1633,7 @@ height:240px;
 
 .about-inner { padding: 15px; }
 
-.f-italic24 { font-size: 16px; }
+.f-italic24 { font-size: 14px; }
 
 .feature-title h3 { font-size: 16px; }
 
